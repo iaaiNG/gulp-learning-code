@@ -1,0 +1,19 @@
+body, html{
+    margin: 0;
+    height: 100%;
+}
+#app{
+    width: 50%;
+    background: rgb(101, 100, 194);
+    height: 50%;
+    background: url("../img/bg-78c6854.jpg")
+}
+#app img{
+    width: 150px;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
